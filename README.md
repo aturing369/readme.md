@@ -1,2 +1,2 @@
 # readme.md
-Repositorio de prueba
+Este es un repositorio de prueba para gitHub
